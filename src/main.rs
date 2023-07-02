@@ -90,7 +90,7 @@ async fn show_form() -> Html<&'static str> {
                     <div>
                         <input type="submit" value="Upload files">
                     </div>
-                    <img src="/images/bea2b46a2d99f402d0ac78ec59021132b166caea4fc458d63d9a9f1750f44da1">
+                    <img src="/images/5952cbefa9cfddbcb6beeda3b4f469099bb2e2d4f87b3bbf5dc947dd2f87b66f">
                 </form>
             </body>
         </html>
